@@ -1,0 +1,26 @@
+<annotation>
+	<folder>allimages</folder>
+	<filename>armas (609).jpg</filename>
+	<path>D:\EntornoTensorflow\RealTimeObjectDetection\Tensorflow\workspace\images\allimages\armas (609).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>980</width>
+		<height>653</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Arma</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>306</xmin>
+			<ymin>326</ymin>
+			<xmax>506</xmax>
+			<ymax>473</ymax>
+		</bndbox>
+	</object>
+</annotation>
